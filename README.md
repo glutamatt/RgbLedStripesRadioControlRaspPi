@@ -13,7 +13,7 @@ ingredients :
  - some jumper wires
 
 
-Pilight http://www.pilight.org/ must be up and running on the Pi.
+pilight http://www.pilight.org/ must be up and running on the Pi.
 
 Node.js serve the ui and handle user changes. Socket.io is required.
 
