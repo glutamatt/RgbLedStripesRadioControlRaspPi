@@ -1,0 +1,187 @@
+Please make sure the daemon is not running when using this debugger.
+
+Now press and hold one of the buttons on your remote or wait until
+another device such as a weather station has send new codes
+It is possible that the debugger needs to be restarted when it does
+not show anything. This is because it's then following a wrong lead.
+--[RESULTS]--
+
+pulse:		67
+rawlen:		68
+binlen:		17
+pulselen:	134
+
+Raw code:
+402 670 402 1742 402 1742 402 670 402 1742 402 1742 402 670 402 670 402 670 402 670 402 670 402 1742 402 670 402 670 402 670 402 670 402 670 402 670 402 670 402 670 402 1742 402 670 402 670 402 1742 402 670 402 1742 402 1742 402 1742 402 670 402 1742 402 670 402 1742 402 12060 8978 4556 
+Binary code:
+00000000000000000
+Please make sure the daemon is not running when using this debugger.
+
+Now press and hold one of the buttons on your remote or wait until
+another device such as a weather station has send new codes
+It is possible that the debugger needs to be restarted when it does
+not show anything. This is because it's then following a wrong lead.
+--[RESULTS]--
+
+pulse:		66
+rawlen:		68
+binlen:		17
+pulselen:	135
+
+Raw code:
+405 675 405 1755 405 1755 405 675 405 1755 405 1755 405 675 405 675 405 675 405 675 405 675 405 1755 405 675 405 675 405 675 405 675 405 675 405 675 405 675 405 675 405 1755 405 675 405 675 405 1755 405 675 405 1755 405 1755 405 1755 405 675 405 1755 405 675 405 1755 405 12420 8910 4590 
+Binary code:
+00000000000000000
+Please make sure the daemon is not running when using this debugger.
+
+Now press and hold one of the buttons on your remote or wait until
+another device such as a weather station has send new codes
+It is possible that the debugger needs to be restarted when it does
+not show anything. This is because it's then following a wrong lead.
+--[RESULTS]--
+
+pulse:		66
+rawlen:		68
+binlen:		17
+pulselen:	135
+
+Raw code:
+405 675 405 1755 405 1755 405 675 405 1755 405 1755 405 675 405 675 405 675 405 675 405 675 405 1755 540 675 405 675 405 675 405 675 405 675 405 675 405 675 405 675 405 1755 405 675 405 675 405 1755 405 675 405 1755 405 1755 405 1755 405 675 405 1755 405 675 405 1755 405 12150 8910 4590 
+Binary code:
+00000000000000000
+Please make sure the daemon is not running when using this debugger.
+
+Now press and hold one of the buttons on your remote or wait until
+another device such as a weather station has send new codes
+It is possible that the debugger needs to be restarted when it does
+not show anything. This is because it's then following a wrong lead.
+--[RESULTS]--
+
+pulse:		66
+rawlen:		68
+binlen:		17
+pulselen:	135
+
+Raw code:
+405 675 405 1755 405 1755 405 675 405 1755 405 1755 540 675 405 675 405 675 405 675 405 675 405 1755 405 675 405 675 405 675 405 675 405 675 405 675 405 675 405 675 405 1755 405 675 405 675 405 1755 405 675 405 1755 405 1755 405 1755 405 675 405 1755 405 675 405 1755 405 12150 8910 4590 
+Binary code:
+00000000000000000
+Please make sure the daemon is not running when using this debugger.
+
+Now press and hold one of the buttons on your remote or wait until
+another device such as a weather station has send new codes
+It is possible that the debugger needs to be restarted when it does
+not show anything. This is because it's then following a wrong lead.
+--[RESULTS]--
+
+pulse:		66
+rawlen:		68
+binlen:		17
+pulselen:	135
+
+Raw code:
+405 675 405 1755 405 1755 405 675 405 1755 405 1755 405 675 405 675 405 675 405 675 405 675 405 1755 405 675 405 675 405 675 540 675 405 675 405 675 405 675 405 675 405 1755 405 675 405 675 405 1755 405 675 405 1755 405 1755 405 1755 405 675 405 1755 405 675 405 1755 405 12420 8910 4590 
+Binary code:
+00000000000000000
+Please make sure the daemon is not running when using this debugger.
+
+Now press and hold one of the buttons on your remote or wait until
+another device such as a weather station has send new codes
+It is possible that the debugger needs to be restarted when it does
+not show anything. This is because it's then following a wrong lead.
+--[RESULTS]--
+
+pulse:		66
+rawlen:		68
+binlen:		17
+pulselen:	134
+
+Raw code:
+402 670 536 1742 402 1742 402 670 402 1742 402 1742 402 670 536 670 536 670 402 670 402 670 402 1742 402 670 402 670 402 670 402 670 402 670 402 670 402 670 402 670 402 1742 402 670 402 670 402 1742 402 670 402 1742 402 1742 402 1742 402 670 402 1742 402 670 402 1742 402 12060 8844 4556 
+Binary code:
+00000000000000000
+Please make sure the daemon is not running when using this debugger.
+
+Now press and hold one of the buttons on your remote or wait until
+another device such as a weather station has send new codes
+It is possible that the debugger needs to be restarted when it does
+not show anything. This is because it's then following a wrong lead.
+--[RESULTS]--
+
+pulse:		66
+rawlen:		68
+binlen:		17
+pulselen:	135
+
+Raw code:
+405 675 405 1755 405 1755 405 675 405 1755 405 1755 405 675 405 675 405 675 405 675 405 675 405 1755 405 675 405 675 405 675 405 675 405 675 405 675 405 675 405 675 405 1755 405 675 405 675 405 1755 405 675 405 1755 405 1755 405 1755 405 675 405 1755 405 675 405 1755 405 12420 8910 4590 
+Binary code:
+00000000000000000
+Please make sure the daemon is not running when using this debugger.
+
+Now press and hold one of the buttons on your remote or wait until
+another device such as a weather station has send new codes
+It is possible that the debugger needs to be restarted when it does
+not show anything. This is because it's then following a wrong lead.
+--[RESULTS]--
+
+pulse:		66
+rawlen:		68
+binlen:		17
+pulselen:	135
+
+Raw code:
+405 675 405 1755 405 1755 405 675 405 1755 405 1755 405 675 405 675 405 675 405 675 405 675 405 1755 405 675 405 675 405 675 405 675 405 675 405 675 405 675 405 675 405 1755 405 675 540 675 405 1755 405 675 540 1755 405 1755 540 1755 405 675 405 1755 405 675 405 1755 405 12420 8910 4590 
+Binary code:
+00000000000000000
+Please make sure the daemon is not running when using this debugger.
+
+Now press and hold one of the buttons on your remote or wait until
+another device such as a weather station has send new codes
+It is possible that the debugger needs to be restarted when it does
+not show anything. This is because it's then following a wrong lead.
+--[RESULTS]--
+
+pulse:		66
+rawlen:		68
+binlen:		17
+pulselen:	135
+
+Raw code:
+405 675 405 1755 405 1755 405 675 405 1755 405 1755 405 675 405 675 405 675 405 675 405 675 405 1755 405 675 405 675 405 675 405 675 405 675 405 675 405 675 405 675 405 1755 405 675 405 675 405 1755 405 675 405 1755 405 1755 405 1755 405 675 405 1755 405 675 405 1755 405 12420 8910 4590 
+Binary code:
+00000000000000000
+Please make sure the daemon is not running when using this debugger.
+
+Now press and hold one of the buttons on your remote or wait until
+another device such as a weather station has send new codes
+It is possible that the debugger needs to be restarted when it does
+not show anything. This is because it's then following a wrong lead.
+--[RESULTS]--
+
+pulse:		66
+rawlen:		68
+binlen:		17
+pulselen:	135
+
+Raw code:
+405 675 405 1755 405 1755 405 675 405 1755 405 1755 405 675 405 675 405 675 405 675 405 675 405 1755 405 675 405 675 405 675 405 675 405 675 405 675 405 675 405 675 405 1755 405 675 405 675 405 1755 405 675 405 1755 405 1755 405 1755 405 675 405 1755 405 675 405 1755 405 12150 8910 4590 
+Binary code:
+00000000000000000
+Please make sure the daemon is not running when using this debugger.
+
+Now press and hold one of the buttons on your remote or wait until
+another device such as a weather station has send new codes
+It is possible that the debugger needs to be restarted when it does
+not show anything. This is because it's then following a wrong lead.
+--[RESULTS]--
+
+pulse:		65
+rawlen:		68
+binlen:		17
+pulselen:	136
+
+Raw code:
+408 680 408 1768 408 1768 408 680 408 1768 408 1768 544 680 408 680 408 680 408 680 408 680 408 1768 408 680 408 680 408 680 408 680 408 680 408 680 408 680 408 680 408 1768 408 680 408 680 408 1768 408 680 408 1768 408 1768 408 1768 408 680 408 1768 408 680 408 1768 408 12104 8840 4624 
+Binary code:
+00000000000000000
