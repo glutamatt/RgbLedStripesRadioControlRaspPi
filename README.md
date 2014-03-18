@@ -5,6 +5,8 @@ Radio Frequence Control Rgb Led Stripes From Raspberry Pi
 
 My modest DIY project : make a rasp able to control rgb led stripes with rf emitter.
 
+Discussion on [pilight Forum](http://forum.pilight.org/Thread-RGB-rf-Led-Controller)
+
 ingredients :
  - a rasberry pi
  - a rf emitter (http://www.ebay.fr/itm/1pcs-RF-transmitter-and-receiver-kit-for-Arduino-project-433Mhz-/370685120131)
